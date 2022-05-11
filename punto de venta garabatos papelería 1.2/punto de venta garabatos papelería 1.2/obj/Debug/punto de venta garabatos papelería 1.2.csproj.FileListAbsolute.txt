@@ -1,0 +1,26 @@
+C:\Users\josea\source\repos\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\bin\Debug\punto de venta garabatos papelería 1.2.exe.config
+C:\Users\josea\source\repos\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\bin\Debug\punto de venta garabatos papelería 1.2.exe
+C:\Users\josea\source\repos\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\bin\Debug\punto de venta garabatos papelería 1.2.pdb
+C:\Users\josea\source\repos\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto de venta garabatos papelería 1.2.csproj.AssemblyReference.cache
+C:\Users\josea\source\repos\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto de venta garabatos papelería 1.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\josea\source\repos\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto_de_venta_garabatos_papelería_1._2.Properties.Resources.resources
+C:\Users\josea\source\repos\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto de venta garabatos papelería 1.2.csproj.GenerateResource.cache
+C:\Users\josea\source\repos\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto de venta garabatos papelería 1.2.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto de venta garabatos papelería 1.2.exe
+C:\Users\josea\source\repos\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto de venta garabatos papelería 1.2.pdb
+C:\Users\josea\source\repos\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto_de_venta_garabatos_papelería_1._2.frm_login.resources
+D:\Personal\Desktop\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\bin\Debug\punto de venta garabatos papelería 1.2.exe.config
+D:\Personal\Desktop\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\bin\Debug\punto de venta garabatos papelería 1.2.exe
+D:\Personal\Desktop\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\bin\Debug\punto de venta garabatos papelería 1.2.pdb
+D:\Personal\Desktop\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto de venta garabatos papelería 1.2.csproj.AssemblyReference.cache
+D:\Personal\Desktop\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto de venta garabatos papelería 1.2.csproj.SuggestedBindingRedirects.cache
+D:\Personal\Desktop\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto_de_venta_garabatos_papelería_1._2.frm_login.resources
+D:\Personal\Desktop\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto_de_venta_garabatos_papelería_1._2.Properties.Resources.resources
+D:\Personal\Desktop\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto de venta garabatos papelería 1.2.csproj.GenerateResource.cache
+D:\Personal\Desktop\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto de venta garabatos papelería 1.2.csproj.CoreCompileInputs.cache
+D:\Personal\Desktop\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto de venta garabatos papelería 1.2.exe
+D:\Personal\Desktop\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto de venta garabatos papelería 1.2.pdb
+D:\Personal\Desktop\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto_de_venta_garabatos_papelería_1._2.frm_admin.resources
+D:\Personal\Desktop\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto_de_venta_garabatos_papelería_1._2.frm_inventario.resources
+D:\Personal\Desktop\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto_de_venta_garabatos_papelería_1._2.frm_empleados.resources
+D:\Personal\Desktop\punto de venta garabatos papelería 1.2\punto de venta garabatos papelería 1.2\obj\Debug\punto_de_venta_garabatos_papelería_1._2.frm_venta.resources
